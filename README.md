@@ -4,7 +4,10 @@
 **chuiyefeng503-code/chuiyefeng503-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### 🔗 找到我
+*   **个人主页**: [chuiyefeng503-code.github.io](https://chuiyefeng503-code.github.io)
+*   **Google Scholar**: [你的学术主页链接]
+*   **Email**: [你的邮箱地址]
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
