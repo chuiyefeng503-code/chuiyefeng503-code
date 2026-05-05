@@ -4,7 +4,7 @@
 研究兴趣：**隐私保护 (Privacy Protection)** 和 **函数秘密共享 (Function Secret Sharing)**。
 
 ### 🔗 找到我
-*   **个人主页**: [chuiyefeng503-code.github.io](https://chuiyefeng503-code.github.io)
+*   **个人主页**:
 *   **Google Scholar**: [你的 Google Scholar 链接]
 *   **Email**: [你的邮箱地址]
 
